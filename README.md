@@ -1,18 +1,23 @@
-## Getting Started
+## ZOOM Project _ Java programing
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#Personal Project Aims
 
-## Folder Structure
+To create a 3D vector graphics environment from simple geometrical mathmatics.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## View & Controls
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Open the JAR file.
+Use keys:
+B-Speed up
+N - Stop
+Q - Point UP
+A - Point Down
+Y - Bank Left
+U - Bank Right
+T - Fire.
 
-## Dependency Management
+## Outcome
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
