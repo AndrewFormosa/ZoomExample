@@ -1,6 +1,6 @@
 ## ZOOM Project _ Java programing
 
-#Personal Project Aims
+# Personal Project Aims
 
 To create a 3D vector graphics environment from simple geometrical mathmatics.
 
