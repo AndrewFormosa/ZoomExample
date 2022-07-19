@@ -6,7 +6,7 @@ I recalled watching an Open University lecture in around 1985 on BBC2, aged 12, 
 
 I used Java to write the code to test my logic and maths, and this was the result.  
 
-I created a simple plain, with various sized cubes etc. that you can fly around.  
+I created a simple flat plane, with various sized cubes etc. that you can fly around.  
 
 ![image](https://user-images.githubusercontent.com/65806732/179815440-e5024628-e68b-40b2-bbac-0b4dd7827f6b.png)
 
