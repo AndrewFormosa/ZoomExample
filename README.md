@@ -4,6 +4,8 @@
 
 To create a 3D vector graphics environment from simple geometrical mathmatics.
 
+[Zoom jar Download](https://github.com/AndrewFormosa/ZoomExample/blob/master/ZoomExample.jar) 
+
 https://github.com/AndrewFormosa/ZoomExample/blob/master/ZoomExample.jar
 
 ## View & Controls
