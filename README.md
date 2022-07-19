@@ -1,6 +1,6 @@
 ## ZOOM Project _ Java programing
 
-![Image](ZoomPic1.PNG)
+![image](https://user-images.githubusercontent.com/65806732/179815440-e5024628-e68b-40b2-bbac-0b4dd7827f6b.png)
 
 ### Personal Project Aims
 
