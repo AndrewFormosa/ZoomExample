@@ -1,5 +1,7 @@
 ## ZOOM Project _ Java programing
 
+![Image](ZoomPic1.PNG)
+
 ### Personal Project Aims
 
 To create a 3D vector graphics environment from simple geometrical mathmatics.
