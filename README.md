@@ -20,7 +20,8 @@ You can see the code here..
 
 ## View & Controls  
 To Try:  
-Open the JAR file.  
+Downlaod and open the JAR file to start the program.
+You need to pick up some speed by pressing B to get things going.
 Use keys:
 B-Speed up
 N - Stop
@@ -29,7 +30,5 @@ A - Point Down
 Y - Bank Left
 U - Bank Right
 T - Fire.
-
-## Outcome
 
 
