@@ -11,7 +11,7 @@ I created a simple flat plane, with various sized cubes etc. that you can fly ar
 ![image](https://user-images.githubusercontent.com/65806732/179815440-e5024628-e68b-40b2-bbac-0b4dd7827f6b.png)
 
 You can view a video here...
-[[https://example.com/video.mp4]]
+[[https://zoom2.mp4]]
 
 You can download the executable jar here..  
 [Zoom jar Download](https://github.com/AndrewFormosa/ZoomExample/blob/master/ZoomExample.jar?raw=true) 
