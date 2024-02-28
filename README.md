@@ -1,6 +1,6 @@
 ## ZOOM Project _ Java programing
 
-### Personal Project Aims
+### Personal Project Aim
 
 I recalled watching an Open University lecture in around 1985 on BBC2, aged 12, on how how to create Vector graphics and decided to set myself a challenge to create a 3D vector graphics environment using only basic geometry and trigonometry (Sin, Cos, Tan, Pythagoras) and NO 3D graphics libraries!
 
